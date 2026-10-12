@@ -1,6 +1,6 @@
 # Awesome Music Hardware Mods
 
-A curated list of physical mods, add-ons and circuit bending for music hardware.
+A curated list of physical mods, add-ons and circuit bending for music hardware. For custom firmware and software mods, see [Awesome Music Hardware Hacks](https://github.com/Lapin/awesome-music-hardware-hacks).
 
 ## Contents
 
@@ -11,6 +11,8 @@ A curated list of physical mods, add-ons and circuit bending for music hardware.
 - [Roland](#roland)
 - [Teenage Engineering](#teenage-engineering)
 - [Yamaha](#yamaha)
+- [Communities](#communities)
+- [Related lists](#related-lists)
 
 ## Akai
 
@@ -45,6 +47,15 @@ A curated list of physical mods, add-ons and circuit bending for music hardware.
 ## Yamaha
 
 - [reface_midi](https://github.com/matthewcieplak/reface_midi) - Patch storage box for the reface CS.
+
+## Communities
+
+- [Hacktronauts](https://hacktronauts.com) - Forum for hacking, modding and building music hardware.
+- [lines](https://llllllll.co) - Forum for music, art and open source tools.
+
+## Related lists
+
+- [Awesome Music Hardware Hacks](https://github.com/Lapin/awesome-music-hardware-hacks) - Custom firmware, software mods and tools.
 
 ## Contributing
 
