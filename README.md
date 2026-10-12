@@ -1,6 +1,6 @@
-# Awesome Music Hardware Mods
+# Awesome Music Gear Mods
 
-A curated list of physical mods, add-ons and circuit bending for music hardware. For custom firmware and software mods, see [Awesome Music Hardware Hacks](https://github.com/Lapin/awesome-music-hardware-hacks).
+A curated list of physical mods, add-ons and circuit bending for music gear. For custom firmware and software mods, see [Awesome Music Gear Firmware](https://github.com/Lapin/awesome-music-gear-firmware).
 
 ## Contents
 
@@ -55,7 +55,7 @@ A curated list of physical mods, add-ons and circuit bending for music hardware.
 
 ## Related lists
 
-- [Awesome Music Hardware Hacks](https://github.com/Lapin/awesome-music-hardware-hacks) - Custom firmware, software mods and tools.
+- [Awesome Music Gear Firmware](https://github.com/Lapin/awesome-music-gear-firmware) - Custom firmware, software mods and tools.
 
 ## Contributing
 
