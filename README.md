@@ -62,3 +62,4 @@ A curated list of physical mods, add-ons and circuit bending for music gear. For
 Pull requests welcome. One line per entry: `- [Name](link) - Short description.` Link to build docs or the project page, and check the link yourself.
 
 Not affiliated with any manufacturer. Modding can void your warranty, damage your device or hurt you. Mains-powered gear can kill.
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) - Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares.
